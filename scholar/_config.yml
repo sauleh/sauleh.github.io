@@ -29,6 +29,8 @@ markdown: kramdown
 theme: minima
 scholar:
         style: mla
+        sort_by: year,month
+        order: descending
 plugins:
   - jekyll-feed
   - jekyll/scholar
