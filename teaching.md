@@ -4,18 +4,20 @@ author_profile: true
 permalink: /teaching/
 title: Teaching
 tags: [teaching, courses]
-modified: 9-14-2019
+modified: 10-17-2019
 comments: false
 ---
 
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|2019|Fall  | **<a href="/fc98/">Fundamentals of Computer Programming</a>**         |
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Lab</a>** |
+|2019|Fall  | **<a href="/fc98/">Computer Lab</a>** |
+|----|------|--------------------------------|
+|2019|Fall  | **<a href="/co98/">College Orientation and Student Skills</a>** |
 
 
 |           | **Past**                       |
