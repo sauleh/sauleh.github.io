@@ -8,7 +8,6 @@ modified: 10-17-2019
 comments: false
 ---
 
-
 |           | **Current**                    |
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="/fc98/">Fundamentals of Computer Programming</a>**         |

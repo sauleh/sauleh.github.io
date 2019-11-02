@@ -12,6 +12,8 @@ main:
     url: /publications/
   - title: "Blog"
     url: /blog/
+  - title: "Tools"
+    url: /tools/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
