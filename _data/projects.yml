@@ -18,6 +18,6 @@ list:
     report_url: /static_files/projects/samin_fatehi.pdf
   - name: مریم سادات هاشمی
     when: تابستان ۹۸
-    topic: Domestic Startup Echosystems
-    report_url: /static_files/projects/soroosh_gholami.pdf
-    resources: /static_files/projects/soroosh_gholami.zip
+    topic: طراحی و پیاده‌سازی شبکه اجتماعی محلی و بی‌سیم بدون اینترنت
+    report_url: /static_files/projects/maryam_sadat_hashemi.pdf
+    resources: /static_files/projects/maryam_sadat_hashemi.zip

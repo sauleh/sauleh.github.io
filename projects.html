@@ -25,17 +25,17 @@ comments: true
             <td>{{proj.name}}</td>
             <td>{{proj.when}}</td>
             <td>{{proj.topic}}</td>
-            <td><a href={{intern.reporturl | prepend: site.baseurl }}>PDF</a></td>
+            <td><a href={{proj.reporturl | prepend: site.baseurl }}>PDF</a></td>
             <td>
-            {% if intern.resources %}
-                <a href={{intern.resources}}>Download</a>
+            {% if proj.resources %}
+                <a href={{proj.resources}}>Download</a>
             {% else %}
                 -
             {% endif %}
             </td>
             <td>
-            {% if intern.link %}
-                <a href={{intern.link}}>link</a>
+            {% if proj.link %}
+                <a href={{proj.link}}>link</a>
             {% else %}
                 -
             {% endif %}
