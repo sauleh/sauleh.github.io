@@ -1,0 +1,46 @@
+---
+layout: single
+author_profile: true
+permalink: /projects/
+title: Senior Projects
+tags: [students, projects]
+modified: 11-25-2019
+comments: true
+---
+<div dir=rtl>
+    <table>
+        <tr>
+            <th>#</th>
+            <th>دانشجو</th>
+            <th>زمان</th>
+            <th>موضوع</th>
+            <th>گزارش</th>
+            <th>منابع</th>
+            <th>پیوند</th>
+        </tr>
+        {% assign projects = site.data.projects.list | sort: 'when' | reverse %}
+        {% for proj in projects %}
+        <tr>
+            <td>{{forloop.index }}</td>
+            <td>{{proj.name}}</td>
+            <td>{{proj.when}}</td>
+            <td>{{proj.topic}}</td>
+            <td><a href={{intern.reporturl | prepend: site.baseurl }}>PDF</a></td>
+            <td>
+            {% if intern.resources %}
+                <a href={{intern.resources}}>Download</a>
+            {% else %}
+                -
+            {% endif %}
+            </td>
+            <td>
+            {% if intern.link %}
+                <a href={{intern.link}}>link</a>
+            {% else %}
+                -
+            {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>

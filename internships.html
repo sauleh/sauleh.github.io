@@ -1,0 +1,42 @@
+---
+layout: single
+author_profile: true
+permalink: /internship/
+title: Internship Reports
+tags: [students, internship]
+modified: 11-25-2019
+comments: true
+---
+<div dir=rtl>
+    <table>
+        <tr>
+            <th>#</th>
+            <th>دانشجو</th>
+            <th>زمان</th>
+            <th>مکان</th>
+            <th>موضوع</th>
+            <th>سرپرست</th>
+            <th>گزارش</th>
+            <th>منابع</th>
+        </tr>
+        {% assign internships = site.data.internships.list | sort: 'when' | reverse %}
+        {% for intern in internships %}
+        <tr>
+            <td>{{forloop.index }}</td>
+            <td>{{intern.name}}</td>
+            <td>{{intern.when}}</td>
+            <td><a href={{intern.location_url}}>{{intern.location}}</a></td>
+            <td>{{intern.topic}}</td>
+            <td>{{intern.supervisor}}</td>
+            <td><a href={{intern.reporturl | prepend: site.baseurl }}>PDF</a></td>
+            <td>
+            {% if intern.resources %}
+                <a href={{intern.resources}}>Download</a>
+            {% else %}
+                -
+            {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>

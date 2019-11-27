@@ -1,0 +1,31 @@
+list:
+  - name: نازنین صراف‌زاده
+    when: تابستان ۹۸
+    location: ITRC
+    location_url: https://www.itrc.ac.ir
+    topic: Domestic Startup Echosystems
+    report_url: /static_files/internship/nazanin_sarrafzadeh.pdf
+    resources: /static_files/internship/nazanin_sarrafzadeh.zip
+    supervisor: مژده صلواتی
+  - name: کیوان جمشیدی جم
+    when: تابستان ۹۸
+    location: شرکت نهان مهسان آدینه
+    location_url: https://mahsan.co/
+    topic: سامانه پایش شبکه
+    report_url: /static_files/internship/keyvan_jamshidi.pdf
+    supervisor: علی باستانی
+  - name: سید احمدرضا سجادیان
+    when: تابستان ۹۸
+    location: شرکت نهان مهسان آدینه
+    location_url: https://mahsan.co/
+    topic: سامانه پایش شبکه
+    report_url: /static_files/internship/seyyed_ahmadreza_sajjadian.pdf
+    supervisor: علی باستانی، کاظمی
+  - name: دانیال کمالی
+    when: تابستان ۹۸
+    location: آزمایشگاه داده کاوی - دانشگاه علم و صنعت
+    location_url: https://mahsan.co/
+    topic: Improving Persian Tokenizer Performance
+    report_url: /static_files/internship/danial_kamali.pdf
+    resources: /static_files/internship/danial_kamali.zip
+    supervisor: بهروز مینایی

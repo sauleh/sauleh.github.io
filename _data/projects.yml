@@ -1,0 +1,23 @@
+list:
+  - name: محیا خزائی
+    when: تابستان ۹۸
+    topic: سیستم توصیه‌گر موسیقی بر اساس محتوا
+    report_url: /static_files/projects/mahya_khazaei.pdf
+  - name: سروش غلامی
+    when: تابستان ۹۸
+    topic: توضیح نویس تصویر با استفاده از ساز و کار توجه در شبکه‌ی عصبی
+    report_url: /static_files/projects/soroosh_gholami.pdf
+    resources: /static_files/projects/soroosh_gholami.zip
+  - name: عطیه سروی
+    when: تابستان ۹۸
+    topic: سامانه توصیه گر بر اساس نظرات منفی
+    report_url: /static_files/projects/attieh_sarvi.pdf
+  - name: ثمین فاتحی
+    when: تابستان ۹۸
+    topic: کشف حقیقت متن
+    report_url: /static_files/projects/samin_fatehi.pdf
+  - name: مریم سادات هاشمی
+    when: تابستان ۹۸
+    topic: Domestic Startup Echosystems
+    report_url: /static_files/projects/soroosh_gholami.pdf
+    resources: /static_files/projects/soroosh_gholami.zip
