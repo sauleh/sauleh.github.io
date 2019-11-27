@@ -25,7 +25,7 @@ comments: true
             <td>{{proj.name}}</td>
             <td>{{proj.when}}</td>
             <td>{{proj.topic}}</td>
-            <td><a href={{proj.reporturl | prepend: site.baseurl }}>PDF</a></td>
+            <td><a href={{proj.report_url | prepend: site.baseurl }}>PDF</a></td>
             <td>
             {% if proj.resources %}
                 <a href={{proj.resources}}>Download</a>
