@@ -4,7 +4,7 @@ author_profile: true
 permalink: /tools/
 title: My Favorite Tools
 tags: [tools, favorite]
-modified: 11-02-2019
+modified: 12-14-2019
 comments: true
 ---
 I like to list my favorite tools, so I can keep track of them and I can also point friends/students/colleagues to this list. This is a first draft. I will add more items as I remember/discover/have time.
