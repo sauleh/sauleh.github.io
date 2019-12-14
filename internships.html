@@ -28,7 +28,7 @@ comments: true
             <td><a href={{intern.location_url}}>{{intern.location}}</a></td>
             <td>{{intern.topic}}</td>
             <td>{{intern.supervisor}}</td>
-            <td><a href={{intern.reporturl | prepend: site.baseurl }}>PDF</a></td>
+            <td><a href={{intern.report_url | prepend: site.baseurl }}>PDF</a></td>
             <td>
             {% if intern.resources %}
                 <a href={{intern.resources}}>Download</a>
