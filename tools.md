@@ -12,3 +12,5 @@ I like to list my favorite tools, so I can keep track of them and I can also poi
 * [WinDirStat](https://windirstat.net/): Why is my hard disk full? The best free tool I found to answer this question.
 * [Meld](https://meldmerge.org): I love Beyond Compare but it is not free. Meld is the best free tool I found. I've also used WinMerge, but Meld seems to have a more intuitive UI.
 * [FlashBack Express](https://www.flashbackrecorder.com/express/): I've used the free version of Flashback Express for several semesters to record my lectures. It's the best free tool I've found and I have no complaints!
+* [VSCode](https://code.visualstudio.com) is my favorite general purpose editor. Specially when working in a 'Directory'. I regularly use it for python, HTML, LaTeX, C++, Jekyll, ... .
+* [ConEMU](https://conemu.github.io): I open many terminal windows for various tasks. It's nice to have them all in one window, but different tabs.
