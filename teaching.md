@@ -10,6 +10,13 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
+|2020|Spring  | **<a href="/ad98/">Design and Analysis of Algorithms</a>**         |
+|----|------|--------------------------------|
+|2020|Spring  | **<a href="/ap98/">Advanced Programming</a>** |
+
+
+|           | **Past**                       |
+|----|------|--------------------------------|
 |2019|Fall  | **<a href="/fc98/">Fundamentals of Computer Programming</a>**         |
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
@@ -17,9 +24,6 @@ comments: false
 |2019|Fall  | **<a href="/fc98/">Computer Lab</a>** |
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="/co98/">College Orientation and Student Skills</a>** |
-
-
-|           | **Past**                       |
 |----|------|--------------------------------|
 |2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
 |----|------|--------------------------------|
