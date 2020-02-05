@@ -22,17 +22,18 @@ comments: true
 ### Current Undergraduate Students
 * Zahra Bashir (BS 95)
 * Ali Aleyasin (BS 95)
-[//]: # (Candidates:)
-[//]: # (95)
-[//]: # (* Mahdi Moghadami (BS 95) JWPP FN) 
-[//]: # (* Fatemeh Tavakkoli (BS 95)) 
-[//]: # (* Amir Ehsandar (BS 95) JWPP) 
-[//]: # (96)
-[//]: # (* Sara Kodeiri (BS 96)) 
-[//]: # (* Mahsa Ghaderan (BS 96) FN) 
-[//]: # (* Mohammad Javad Pirhadi (BS 96) FN) 
-[//]: # (* Motahare Mirzaei (BS 96) JWPP FN) 
-[//]: # (* Mohammad Mahdi Abdollah Pour (BS 96) JWPP) 
+
+<!-- Candidates
+95
+* Mahdi Moghadami (BS 95) JWPP FN
+* Fatemeh Tavakkoli (BS 95)
+* Amir Ehsandar (BS 95) JWPP
+96
+* Sara Kodeiri (BS 96)
+* Mahsa Ghaderan (BS 96) FN
+* Mohammad Javad Pirhadi (BS 96) FN
+* Motahare Mirzaei (BS 96) JWPP FN
+* Mohammad Mahdi Abdollah Pour (BS 96) JWPP -->
 
 
 ### Graduated Students
