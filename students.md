@@ -19,14 +19,14 @@ comments: true
 * Samin Fatehi (MS 98)
 * Mahsa Sadat Razavi (MS 98)
 
-### Current Undergraduate Students
+### Current Undergraduate Stuents
 * Zahra Bashir (BS 95)
 * Ali Aleyasin (BS 95)
+
 
 <!-- Candidates
 95
 * Mahdi Moghadami (BS 95) JWPP FN
-* Fatemeh Tavakkoli (BS 95)
 * Amir Ehsandar (BS 95) JWPP
 96
 * Sara Kodeiri (BS 96)

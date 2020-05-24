@@ -8,30 +8,30 @@ modified: 10-17-2019
 comments: false
 ---
 
-|           | **Current**                    |
+|           | **Current**                    | **Students** |
+|----|------|--------------------------------|--------------|
+|2020|Spring  | **<a href="http://sauleh.github.io/ad98/">Design and Analysis of Algorithms</a>**         | [pdf](../static_files/students/ad98992.pdf)
 |----|------|--------------------------------|
-|2020|Spring  | **<a href="/ad98/">Design and Analysis of Algorithms</a>**         |
-|----|------|--------------------------------|
-|2020|Spring  | **<a href="/ap98/">Advanced Programming</a>** |
+|2020|Spring  | **<a href="http://sauleh.github.io/ap98/">Advanced Programming</a>** |
 
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/fc98/">Fundamentals of Computer Programming</a>**         |
+|2019|Fall  | **<a href="http://sauleh.github.io/fc98/">Fundamentals of Computer Programming</a>**         |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
+|2019|Fall  | **<a href="http://sauleh.github.io/ds98/">Data Structures</a>** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/fc98/">Computer Lab</a>** |
+|2019|Fall  | **<a href="http://sauleh.github.io/fc98/">Computer Lab</a>** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/co98/">College Orientation and Student Skills</a>** |
+|2019|Fall  | **<a href="http://sauleh.github.io/co98/">College Orientation and Student Skills</a>** |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
+|2019|Spring| **<a href="http://sauleh.github.io/ad97/">Algorithm Design</a>**         |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
+|2019|Spring| **<a href="http://sauleh.github.io/ap97/">Advanced Programming - C#</a>** |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/nlp97/">Natural Language Processing (Undergraduate)</a>** |
+|2019|Spring| **<a href="http://sauleh.github.io/nlp97/">Natural Language Processing (Undergraduate)</a>** |
 |----|------|--------------------------------|
-|2018|Fall  | **<a href="/ds97/">Data Structures</a>**            |
+|2018|Fall  | **<a href="http://sauleh.github.io/ds97/">Data Structures</a>**            |
 |----|------|--------------------------------|
 |2018|Fall  | **Advanced Programming - C#** |
 |----|------|--------------------------------------------|
