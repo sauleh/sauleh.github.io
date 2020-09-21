@@ -4,18 +4,22 @@ author_profile: true
 permalink: /teaching/
 title: Teaching
 tags: [teaching, courses]
-modified: 10-17-2019
+modified: 09-21-2020
 comments: false
 ---
 
 |           | **Current**                    |              | **Students** |
 |----|------|--------------------------------|--------------|--------------|
-|2020|Spring  | **<a href="http://sauleh.github.io/ad98/">Design and Analysis of Algorithms</a>** | [pdf](../static_files/students/ad98992.pdf) |
+|2020|Fall  | **<a href="http://sauleh.github.io/fc99/">Fundamentals of Computer Programming</a>** |  |
 |----|------|--------------------------------|--------------|--------------|
-|2020|Spring  | **<a href="http://sauleh.github.io/ap98/">Advanced Programming</a>** |[pdf](../static_files/students/ap98992.pdf) |
+|2020|Fall  | **<a href="http://sauleh.github.io/ai99/">Artificial Intelligence</a>** | |
 
 
 |           | **Past**                       |              | **Students** |
+|----|------|--------------------------------|--------------|--------------|
+|2020|Spring  | **<a href="http://sauleh.github.io/ad98/">Design and Analysis of Algorithms</a>** | [pdf](../static_files/students/ad98992.pdf) |
+|----|------|--------------------------------|--------------|--------------|
+|2020|Spring  | **<a href="http://sauleh.github.io/ap98/">Advanced Programming</a>** |[pdf](../static_files/students/ap98992.pdf) |
 |----|------|--------------------------------|--------------|--------------|
 |2019|Fall  | **<a href="http://sauleh.github.io/fc98/">Fundamentals of Computer Programming</a>** |[pdf](../static_files/students/fc98991.pdf) |
 |----|------|--------------------------------|--------------|--------------|
