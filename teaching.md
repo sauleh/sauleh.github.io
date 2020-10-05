@@ -4,7 +4,7 @@ author_profile: true
 permalink: /teaching/
 title: Teaching
 tags: [teaching, courses]
-modified: 09-21-2020
+modified: 10-05-2020
 comments: false
 ---
 
@@ -13,6 +13,8 @@ comments: false
 |2020|Fall  | **<a href="http://sauleh.github.io/fc99/">Fundamentals of Computer Programming</a>** |  |
 |----|------|--------------------------------|--------------|--------------|
 |2020|Fall  | **<a href="http://sauleh.github.io/ai99/">Artificial Intelligence</a>** | |
+|----|------|--------------------------------|--------------|--------------|
+|2020|Fall  | **<a href="http://sauleh.github.io/ds99/">Data Sructure</a>** | |
 
 
 |           | **Past**                       |              | **Students** |
