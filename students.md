@@ -12,28 +12,21 @@ comments: true
 * [Senior Project Reports](/projects/)
 
 ### Current Master Students
-* Zahra Sayedi (MS 97) - 
-* Majid Zarharan (MS 97)
+* [Zahra Sayedi](https://zahra-sayedi.github.io) (MS 97) - Conversational AI
+* Majid Zarharan (MS 97) - Fake News
 * Mahdi Lotfi (MS 97)
-* Maryam Sadat Hashemi (MS 98)
-* Samin Fatehi (MS 98)
-* Mahsa Sadat Razavi (MS 98)
+* [Maryam Sadat Hashemi](https://maryamhashemi.github.io/) (MS 98) - Visual Question Answering
+* Samin Fatehi (MS 98) - Author Personality Detection
+* Mahsa Sadat Razavi (MS 98) - Active Learning for Conversational AI
 
 ### Current Undergraduate Project Supervisees
-* Zahra Bashir (BS 95)
-* Ali Aleyasin (BS 95)
-
+* Mahdi Moghadami (BS 95)
+* Mohammad Mahdi Abdollah Pour (BS 95) 
+* Sara Kodeiri (BS 96)
+* Mahsa Ghaderan (BS 96)
+* Ghazaleh Mahmoodi (BS 96)
 
 <!-- Candidates
-95
-* Mahdi Moghadami (BS 95) JWPP FN
-* Amir Ehsandar (BS 95) JWPP
-96
-* Sara Kodeiri (BS 96)
-* Mahsa Ghaderan (BS 96) FN
-* Mohammad Javad Pirhadi (BS 96) FN
-* Motahare Mirzaei (BS 96) JWPP FN
-* Mohammad Mahdi Abdollah Pour (BS 96) JWPP 
 97
 * Yasmin Madani
 *‌ Hadi Sheikhi
@@ -41,12 +34,14 @@ comments: true
 
 
 ### Past Undergraduate Project Supervisees
-* Maryam Sadat Hashemi (BS 94)
+* [Zahra Bashir](http://zahrabashir98.github.io/) (BS 95)
+* Ali Aleyasin (BS 95) - MBA Graduate Student at Sharif University
+* Maryam Sadat Hashemi (BS 94) - Graduate Student at IUST
 * Attieh Sarvi (BS 94)
 * Mahya Khazaei (BS 93)
-* Samin Fatehi (BS 94)
-* [Soroosh Gholamizoj](https://sites.google.com/site/gholamisoroosh) [Final Project](/projects/sorooshgholami)
-* Kiarash Aghakasiri (BS 94)
+* Samin Fatehi (BS 94) - Graduate Student at IUST
+* [Soroosh Gholamizoj](https://sites.google.com/site/gholamisoroosh) [Final Project](/projects/sorooshgholami) - Graduate Student at University of Waterloo
+* Kiarash Aghakasiri (BS 94) - Graduate Student at University of Alberta
 
 ### Students who have taken a class with me
 
