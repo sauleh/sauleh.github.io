@@ -14,3 +14,4 @@ I like to list my favorite tools, so I can keep track of them and I can also poi
 * [FlashBack Express](https://www.flashbackrecorder.com/express/): I've used the free version of Flashback Express for several semesters to record my lectures. It's the best free tool I've found and I have no complaints!
 * [VSCode](https://code.visualstudio.com) is my favorite general purpose editor. Specially when working in a 'Directory'. I regularly use it for python, HTML, LaTeX, C++, Jekyll, ... .
 * [ConEMU](https://conemu.github.io): I open many terminal windows for various tasks. It's nice to have them all in one window, but different tabs.
+* [Windows Password Reset](https://www.lazesoft.com/forgot-windows-admin-password-recovery-freeware.html): I tried several tools. This one worked for me on Windows 10.
