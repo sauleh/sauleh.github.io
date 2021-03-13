@@ -12,12 +12,15 @@ comments: true
 * [Senior Project Reports](/projects/)
 
 ### Current Master Students
-* [Zahra Sayedi](https://zahra-sayedi.github.io) (MS 97) - Conversational AI
+* Zahra Sayedi (MS 97) - Conversational AI
 * Majid Zarharan (MS 97) - Fake News
 * Mahdi Lotfi (MS 97)
 * [Maryam Sadat Hashemi](https://maryamhashemi.github.io/) (MS 98) - Visual Question Answering
 * Samin Fatehi (MS 98) - Author Personality Detection
 * Mahsa Sadat Razavi (MS 98) - Active Learning for Conversational AI
+* Hadise Mahmoudi (MS 99)
+* Malihe Hajihosseini (MS 99)
+* Amirhossein Aminimehr (MS 99)
 
 ### Current Undergraduate Project Supervisees
 * Mahdi Moghadami (BS 95)
@@ -25,6 +28,17 @@ comments: true
 * Sara Kodeiri (BS 96)
 * Mahsa Ghaderan (BS 96)
 * Ghazaleh Mahmoodi (BS 96)
+* Zahra Hosseini (BS 96)
+* Hadi Sheikhi (BS 97)
+
+### Current Research Interns
+* Sara Kodeiri (BS 96)
+* Ghazaleh Mahmoodi (BS 96)
+* Hadi Sheikhi (BS 97)
+
+### Past Research Interns
+* Mahsa Ghaderan (BS 96)
+
 
 <!-- Candidates
 97
