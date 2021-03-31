@@ -3,7 +3,7 @@ layout: archive
 --- 
 {% assign paragraphs = page.content | newline_to_br | strip_newlines | split: '<br />' %}
 {% for p in paragraphs %}
-<div dir="auto"> 
+<div dir="auto" style="text-align: justify"> 
 {{ p }}
 </div>
 {% endfor %}

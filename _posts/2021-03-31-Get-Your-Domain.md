@@ -29,13 +29,13 @@ title: ثبت دامنه شخصی
 - پس از ورود به اکانت ابراروان بخش CDN را انتخاب کنید و سپس روی افزودن دامنه جدید کلیک کرده و دامنه‌ای که ثبت‌نام کردید را وارد کنید. مثلا sauleh.ir.
 - پس از افزودن دامنه بخش «رکورد‌های dns» را انتخاب کنید.
 - یک رکورد جدید از نوع CNAME با عنوان www و مقدار username.github.io اضافه کنید.
-  ![افزودن دامنه](../assets/blogs/dns_new_cname.jpg)
+![افزودن دامنه](../assets/blogs/dns_new_cname.jpg)
 - این رکورد سرویس دامنه را به گونه‌ای تنظیم می‌کنه که مثلا www.sauleh.ir همان sauleh.github.io است.
 - سپس یک رکورد جدید از نوع ANAME با عنوان @ و مقدار www.yourdomain.ir (مثلا www.sauleh.ir) ایجاد کنید. 
-  ![افزودن دامنه](../assets/blogs/dns_new_aname.jpg)
+![افزودن دامنه](../assets/blogs/dns_new_aname.jpg)
 - این رکورد سرویس دامنه را به گونه‌ای تنظیم می‌کند که آدرس sauleh.ir همان آدرس www.sauleh.ir است. یعنی چه کسی www را به ابتدای دامنه اضافه کرد یا نکرد، به هر حال وب‌سایت شما را باز کند.
 - بعد از چند دقیق چنانچه دستور‌های زیر را وارد کنید باید خروجی مشابه برای دامنه خود ببینید.
-  ![افزودن دامنه](../assets/blogs/dns_lookup.jpg)
+![افزودن دامنه](../assets/blogs/dns_lookup.jpg)
 
 # تنظیم گیت‌هاب برای قبول دامنه جدید
 برای تنظیم گیت‌هاب باید به بخش settings ریپازیتوری مربوط به وب‌سایت‌تون در گیت‌هاب مراجعه کنید و در بخش Custom Domain رفته و نام دامنه خود را بصورت www.yourdomain.ir (مثلا www.sauleh.ir) وارد کرده و دکمه save را انتخاب کنید. توضیحات بشتر را می‌توانید [اینجا](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain) پیدا کنید.
