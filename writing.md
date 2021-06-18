@@ -11,7 +11,7 @@ You must learn Persian academic writing. All writing you submit to me will becom
 * Software
     * Default windows fonts are not appropriate. Download and install [Farsi fonts](https://soft98.ir/graphic/font/2642-%D9%81%D9%88%D9%86%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.html).
     * Which authoring tool should I use? Commenting/Colaborating is easiest in Microsoft Word (I haven't tried google doc for proper documents. Maybe that's good too, but I bet it has problems in the corner cases like heading, captions, ...). LaTeX is best for consistency. If you are using LaTeX, I prefer collaborating on Overleaf.
-    * If you are usin Microsoft Word, LEARN how to use it.
+    * If you are using Microsoft Word, LEARN how to use it.
     * The university provides a [template](http://pga.iust.ac.ir/page/6638/%D8%A7%D9%84%DA%AF%D9%88-_YW_PAR_OPEN_Template_YW_PAR_CLOSE_). You can use it, but you must also fix any issues it has. 
     * There is also a LaTeX template on [overleaf](https://www.overleaf.com/latex/templates/thesis-for-iran-university-of-science-and-technology-pyn-nmh-bry-dnshgh-lm-wsnt-yrn/dmqfwdysjgmj).
     * If you are writing an internship report Computer Engineering department has a [template](http://ce.iust.ac.ir/files/dept_ce/files/final_Template_of_Internship.docx). It has a lot of formatting problems. Still, it could be useful.
