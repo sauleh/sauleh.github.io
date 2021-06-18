@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 author_profile: true
 permalink: /writing/
 title: Writing Resources
