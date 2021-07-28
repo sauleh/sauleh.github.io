@@ -11,6 +11,7 @@ comments: true
 * [Internship Reports](/internship/)
 * [Senior Project Reports](/projects/)
 * [Thesis/Report writing resources](/writing/)
+* [Coursera For Campus](/coursera/)
 
 ### Current Master Students
 * Zahra Sayedi (MS 97) - Conversational AI

@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /writing/
 title: Writing Resources
-tags: [students, internship]
+tags: [students, writing]
 modified: 06-18-2021
 comments: true
 ---
