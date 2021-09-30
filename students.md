@@ -4,7 +4,7 @@ author_profile: true
 permalink: /students/
 title: Current and past students
 tags: [students]
-modified: 11-25-2019
+modified: 09-30-2021
 comments: true
 ---
 
@@ -19,28 +19,34 @@ comments: true
 * Mahdi Lotfi (MS 97)
 * [Maryam Sadat Hashemi](https://maryamhashemi.github.io/) (MS 98) - Visual Question Answering
 * Samin Fatehi (MS 98) - Author Personality Detection
-* Mahsa Sadat Razavi (MS 98) - Active Learning for Conversational AI
-* Hadise Mahmoudi (MS 99)
-* Malihe Hajihosseini (MS 99)
-* Amirhossein Aminimehr (MS 99)
+* Hadise Mahmoudi (MS 99) - Personality Detection in Social Media
+* Malihe Hajihosseini (MS 99) - Medical Visual Question Answering 
+* Amirhossein Aminimehr (MS 99) - NLP for Financial Market Prediction
 
 ### Current Undergraduate Project Supervisees
 * Mahdi Moghadami (BS 95)
-* Mohammad Mahdi Abdollah Pour (BS 95) 
-* Sara Kodeiri (BS 96)
 * Mahsa Ghaderan (BS 96)
-* Ghazaleh Mahmoodi (BS 96)
 * Zahra Hosseini (BS 96)
 * Hadi Sheikhi (BS 97)
 
+<!-- 
+Armin Gholampour
+-->
+
 ### Current Research Interns
+* Hadi Sheikhi (BS 97)
+* Negar Zeynalabedin (BS 97)
+* Ghazal ZamaniNejad (BS 97)
+* Shaghayegh Mobasher (BS 97)
+* Yasaman Lotfollahi (BS 97)
+* Fatemeh Omidi (BS 97)
+* Armin Gholampour (BS 97)
+
+### Past Undergraduate Research Interns
+* Mahsa Ghaderan (BS 96)
 * Sara Kodeiri (BS 96)
 * Ghazaleh Mahmoodi (BS 96)
-* Hadi Sheikhi (BS 97)
-
-### Past Research Interns
-* Mahsa Ghaderan (BS 96)
-
+* Mahdi Moghadami (BS 95)
 
 <!-- Candidates
 97
@@ -50,6 +56,7 @@ comments: true
 
 
 ### Past Undergraduate Project Supervisees
+* Ghazaleh Mahmoodi (BS 96)
 * [Zahra Bashir](http://zahrabashir98.github.io/) (BS 95)
 * Ali Aleyasin (BS 95) - MBA Graduate Student at Sharif University
 * Maryam Sadat Hashemi (BS 94) - Graduate Student at IUST
@@ -63,6 +70,14 @@ comments: true
 
 |  Semester |       Course                   |              | **Student List**  |
 |----|------|--------------------------------|--------------|--------------|
+|2021|Fall| <a href="http://sauleh.github.io/ds00/">Data Structures</a> | **[pdf](../static_files/students/ds00011.pdf)** |
+|2021|Fall| <a href="http://sauleh.github.io/fc00/">Fundamentals of Computer Programmings</a> | **[pdf]()** |
+|2021|Spring| <a href="http://sauleh.github.io/nlp99/">Natural Language Processing (Undergraduate)</a> | **[pdf](../static_files/students/nlp99002.pdf)** |
+|2021|Spring| <a href="http://sauleh.github.io/ad99/">Design and Analysis of Algorithms</a> | **[pdf](../static_files/students/ad99002.pdf)** |
+|2021|Spring| <a href="http://sauleh.github.io/ap99/">Advanced Programming</a> |**[pdf](../static_files/students/ap99002.pdf)** |
+|2020|Fall| <a href="http://sauleh.github.io/fc99/">Fundamentals of Computer Programmings</a> | **[pdf](../static_files/students/fc99001.pdf)** |
+|2020|Fall| <a href="http://sauleh.github.io/ds98/">Data Structures</a> | **[pdf](../static_files/students/ds99001.pdf)** |
+|2020|Fall| <a href="http://sauleh.github.io/ai99/">Artificial Intelligence</a> |**[pdf](../static_files/students/ai99001.pdf)** |
 |2020|Spring| <a href="http://sauleh.github.io/ad98/">Design and Analysis of Algorithms</a> | **[pdf](../static_files/students/ad98992.pdf)** |
 |2020|Spring| <a href="http://sauleh.github.io/ap98/">Advanced Programming</a> |**[pdf](../static_files/students/ap98992.pdf)** |
 |2019|Fall  | <a href="http://sauleh.github.io/fc98/">Fundamentals of Computer Programming</a> |**[pdf](../static_files/students/fc98991.pdf)** |

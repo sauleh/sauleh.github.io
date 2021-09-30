@@ -4,28 +4,34 @@ author_profile: true
 permalink: /teaching/
 title: Teaching
 tags: [teaching, courses]
-modified: 13-03-2021
+modified: 09-30-2021
 comments: false
 ---
 
 |           | **Current**                    |              | **Students** |
 |----|------|--------------------------------|--------------|--------------|
-|2021|Spring| **<a href="http://sauleh.github.io/ap99/">Advanced Computer Programming</a>** |  |
+|2021|Fall| **<a href="http://sauleh.github.io/ds00/">Data Structures</a>** | [pdf](../static_files/students/ds00011.pdf)  |
 |----|------|--------------------------------|--------------|--------------|
-|2021|Spring| **<a href="http://sauleh.github.io/nlp99/">Natural Language Processing</a>** | |
+|2021|Fall| **<a href="">Fundamentals of Computer Programming</a>** | |
 |----|------|--------------------------------|--------------|--------------|
-|2021|Spring| **<a href="http://sauleh.github.io/ad99/">Algorithm Design</a>** | |
+|2021|Fall  | **<a href="">Computer Lab</a>** | |
 
 
 |           | **Past**                       |              | **Students** |
 |----|------|--------------------------------|--------------|--------------|
-|2020|Fall  | **<a href="http://sauleh.github.io/fc99/">Fundamentals of Computer Programming</a>** |  |
+|2021|Spring| **<a href="http://sauleh.github.io/ap99/">Advanced Computer Programming</a>** | [pdf](../static_files/students/ap99002.pdf)  |
 |----|------|--------------------------------|--------------|--------------|
-|2020|Fall  | **<a href="http://sauleh.github.io/ai99/">Artificial Intelligence</a>** | |
+|2021|Spring| **<a href="http://sauleh.github.io/nlp99/">Natural Language Processing</a>** | [pdf](../static_files/students/nlp99002.pdf) |
 |----|------|--------------------------------|--------------|--------------|
-|2020|Fall  | **<a href="http://sauleh.github.io/ds99/">Data Sructure</a>** | |
+|2021|Spring| **<a href="http://sauleh.github.io/ad99/">Algorithm Design</a>** | [pdf](../static_files/students/ad99002.pdf) |
 |----|------|--------------------------------|--------------|--------------|
-|2020|Fall  | **<a href="http://sauleh.github.io/fc99/">Computer Lab</a>** |
+|2020|Fall  | **<a href="http://sauleh.github.io/fc99/">Fundamentals of Computer Programming</a>** | [pdf](../static_files/students/fc99001.pdf) |
+|----|------|--------------------------------|--------------|--------------|
+|2020|Fall  | **<a href="http://sauleh.github.io/ai99/">Artificial Intelligence</a>** | [pdf](../static_files/students/ai99001.pdf) |
+|----|------|--------------------------------|--------------|--------------|
+|2020|Fall  | **<a href="http://sauleh.github.io/ds99/">Data Sructure</a>** | [pdf](../static_files/students/ds99001.pdf) |
+|----|------|--------------------------------|--------------|--------------|
+|2020|Fall  | **<a href="http://sauleh.github.io/fc99/">Computer Lab</a>** | |
 |----|------|--------------------------------|--------------|--------------|
 |2020|Fall  | **<a href="http://sauleh.github.io/co98/">College Orientation and Student Skills</a>** |
 |----|------|--------------------------------|--------------|--------------|
@@ -37,7 +43,7 @@ comments: false
 |----|------|--------------------------------|--------------|--------------|
 |2019|Fall  | **<a href="http://sauleh.github.io/ds98/">Data Structures</a>**|[pdf](../static_files/students/ds98991.pdf) |
 |----|------|--------------------------------|--------------|--------------|
-|2019|Fall  | **<a href="http://sauleh.github.io/fc98/">Computer Lab</a>** |
+|2019|Fall  | **<a href="http://sauleh.github.io/fc98/">Computer Lab</a>** | |
 |----|------|--------------------------------|--------------|--------------|
 |2019|Fall  | **<a href="http://sauleh.github.io/co98/">College Orientation and Student Skills</a>** |
 |----|------|--------------------------------|--------------|--------------|
@@ -55,4 +61,4 @@ comments: false
 |----|------|--------------------------------------------|--------------|--------------|
 |2018|Spring| **Advanced Programming - C#**              |
 |----|------|--------------------------------------------|--------------|--------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2018|Spring| **Natural Language Processing (Undergraduate)** | |
