@@ -27,13 +27,6 @@ list:
     topic: Fake News Detection
     report_url: /static_files/internship/mahsa_ghaderan.pdf
     supervisor: سید صالح اعتمادی
-  - name: سارا کدیری
-    when: بهار ۱۴۰۰
-    location: آزمایشگاه پردازش زبان‌های طبیعی
-    location_url: https://sauleh.github.ir
-    topic: Visual Question Answering
-    report_url: /static_files/internship/sara_kodeiri.pdf
-    supervisor: سید صالح اعتمادی
   - name: نازنین صراف‌زاده
     when: تابستان ۹۸
     location: ITRC
