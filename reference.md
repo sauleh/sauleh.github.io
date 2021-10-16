@@ -1,7 +1,7 @@
 ---
 layout: pageAuto
 author_profile: true
-permalink: /coursera/
+permalink: /reference/
 title: Letter of Reference
 tags: [reference, recommendation letter]
 modified: 10-16-2021
