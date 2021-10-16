@@ -12,6 +12,7 @@ comments: true
 * [Senior Project Reports](/projects/)
 * [Thesis/Report writing resources](/writing/)
 * [Coursera For Campus](/coursera/)
+* [Letter of Reference](/reference/)
 
 ### Current Master Students
 * Zahra Sayedi (MS 97) - Conversational AI
@@ -45,15 +46,9 @@ Armin Gholampour
 ### Past Undergraduate Research Interns
 * Mahsa Ghaderan (BS 96)
 * Sara Kodeiri (BS 96)
+* Mohammad Mahdi Abdollahpour (BS 96)
 * Ghazaleh Mahmoodi (BS 96)
 * Mahdi Moghadami (BS 95)
-
-<!-- Candidates
-97
-* Yasmin Madani
-*‌ Hadi Sheikhi
--->
-
 
 ### Past Undergraduate Project Supervisees
 * Ghazaleh Mahmoodi (BS 96)
