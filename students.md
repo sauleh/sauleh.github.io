@@ -13,6 +13,7 @@ comments: true
 * [Thesis/Report writing resources](/writing/)
 * [Coursera For Campus](/coursera/)
 * [Letter of Reference](/reference/)
+* [Comprehensive Exam](/compexam/)
 
 ### Current Master Students
 * Zahra Sayedi (MS 97) - Conversational AI
