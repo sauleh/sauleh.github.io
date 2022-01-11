@@ -21,7 +21,7 @@ You must learn Persian academic writing. All writing you submit to me will becom
     * Use PROPER and MODERN persian spelling and writing guidelines. Here are some resources:
         * Check for proper spelling, word spacing and half-space use [here](https://emla.virastaran.net/). 
         * Some minimal writing guidlines [here](https://virastaran.net/khat/) can also be useful.
-        * Use plural/singal [properly](http://www.naasar.ir/persian-4/).
+        * Use plural/singular [properly](http://www.naasar.ir/persian-4/).
         * Half-Space guidline [here](https://utype.ir/blog/%D9%86%DB%8C%D9%85-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/).
 
 * Common Issues:
