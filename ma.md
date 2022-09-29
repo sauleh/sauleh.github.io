@@ -39,11 +39,11 @@ comments: true
 <p class="aligncenter">
 <img src="http://supportforstudents.msu.edu/files/editor/1442796405-judo2.jpg" alt="Tom Sheehan" title="Tom Sheehan, on the right">
 </p>
-بعد از شروع کار در مایکروسافت در سال ۲۰۰۵ یک مدرسه کاراته سبک کیوکوشین در دانشگاه سیاتل پیدا کردم. استاد <a href="https://www.facebook.com/seattle.kyokushin">Keith Hill</a> مربی اصلی مدرسه بود. به خاطر دور بودن مسیر هفته‌‌ای یکبار میرفتم. بعد از چند ماه از طرف مدرسه در مسابقات شمال شرق آمریکا شرکت کردم و در سنگین وزن مقام اول رو کسب کردم. برای مسابقات اصلا آمادگی و نفس نداشتم.
+بعد از شروع کار در مایکروسافت در سال ۲۰۰۵ یک مدرسه کاراته سبک کیوکوشین در دانشگاه سیاتل پیدا کردم. استاد <a href="https://www.facebook.com/seattle.kyokushin">Keith Hill</a> مربی اصلی مدرسه بود. به خاطر دور بودن مسیر هفته‌‌ای یکبار میرفتم. بعد از چند ماه از طرف مدرسه در مسابقات شمال شرق آمریکا شرکت کردم و در سنگین وزن مقام اول رو کسب کردم. برای مسابقات اصلا آمادگی و نفس نداشتم. نتیجه‌اش شد ویدیوهای زیر.
 
-<a href="https://www.youtube.com/watch?v=LUxwe3Viw70">مسابقه اول</a><br>
-<a href="https://www.youtube.com/watch?v=otMJ5dBBh8M">مسابقه دوم</a><br>
-<a href="https://www.youtube.com/watch?v=uT9MPbJd0Lg">مسابقه سوم</a><br>
+<iframe width="1903" height="743" src="https://www.youtube.com/watch?v=LUxwe3Viw70" title="مسابقه اول" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1903" height="743" src="https://www.youtube.com/watch?v=otMJ5dBBh8M" title="مسابقه دوم" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1903" height="743" src="https://www.youtube.com/watch?v=uT9MPbJd0Lg" title="مسابقه سوم - فینال" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 اوایل سال ۲۰۰۶ یک روزی که در یوتیوب می‌گشتم با مسابقات UFC و خانواده Gracie آشنا شدم. آقای Royce Gracie که هیکل متوسطی داشت هم رقبا از سبک‌های مختلف از جمله سبک کیوکوشین رو شکست داده بود. این خانواده سبک برزیلی جوجیتسو رو تاسیس کرده بودند. بعد از یه مقدار جستجو دیدم در کل سیاتل دوتا مدرسه هست که یکیش نسبتا نزدیک به خونه‌مون بود. استادش آقای <a href="https://www.instagram.com/rodrigolopesgbseattle/">Rodrigo Lopes</a> بود.
 <p class="aligncenter">
