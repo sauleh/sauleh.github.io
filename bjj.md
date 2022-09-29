@@ -54,7 +54,7 @@ comments: true
 <img src="../assets/images/bjj_anderson_silva.jpg" /><br>
 <img src="../assets/images/bjj_nogeira.jpg" >
 
-در سال ۲۰۱۸ دان ۲ خود را از اساتیدم آقای Rodrigo و آقای Carlos دریافت کردم.
+در سال ۲۰۱۸ دان دو خود را از اساتیدم آقای Rodrigo و آقای Carlos دریافت کردم.
 <img src="../assets/images/bjj_blackbelts.jpg" />
 
 تعدادی از هم‌تمرینی‌هایم در عکس زیر هستند.
