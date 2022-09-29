@@ -35,9 +35,14 @@ comments: true
 <a href="https://www.facebook.com/seattle.kyokushin">Keith Hill</a>
 مربی اصلی مدرسه بود. به خاطر دور بودن مسیر هفته‌‌ای یکبار میرفتم. بعد از چند ماه از طرف مدرسه در مسابقات شمال شرق آمریکا شرکت کردم و در سنگین وزن مقام اول رو کسب کردم. برای مسابقات اصلا آمادگی و نفس نداشتم.
 
-[مسابقه اول](https://www.youtube.com/watch?v=LUxwe3Viw70)
-[مسابقه دوم](https://www.youtube.com/watch?v=otMJ5dBBh8M)
-[مسابقه سوم](https://www.youtube.com/watch?v=uT9MPbJd0Lg)
+<a href="https://www.youtube.com/watch?v=LUxwe3Viw70">مسابقه اول</a><br>
+<a href="https://www.youtube.com/watch?v=otMJ5dBBh8M">مسابقه دوم</a><br>
+<a href="https://www.youtube.com/watch?v=uT9MPbJd0Lg">مسابقه سوم</a><br>
 
-
-
+اوایل سال ۲۰۰۶ یک روزی که در یوتیوب می‌گشتم با مسابقات
+UFC
+و خانواده 
+Gracie
+آشنا شدم. آقای 
+Royce Gracie
+که هیکل متوسطی داشت هم رقبا از سبک‌های مختلف از جمله سبک کیوکوشین رو شکست داده بود. این خانواده سبک برزیلی جوجیتسو رو تاسیس کرده بودند. بعد از یه مقدار جستجو دیدم در کل سیاتل دوتا مدرسه هست که یکیش نسبتا نزدیک به خونه‌مون بود. 
