@@ -48,4 +48,20 @@ Royce Gracie
 استادش آقای <a href="https://www.instagram.com/rodrigolopesgbseattle/">Rodrigo Lopes</a> بود.
 <image src="assets/images/bjj_rodrigo.jpg" alt="Rodrigo Lopes" title="Rodrigo Lopes"/>
 
-بعد چند هفته تمرین، همه فکر و ذکرم شده بود جوجیتسو. از هر فرصتی برای تمرین جوجیتسو استفاده می‌کردم. 
+بعد چند هفته تمرین، همه فکر و ذکرم شده بود جوجیتسو. از هر فرصتی برای تمرین جوجیتسو استفاده می‌کردم. علاوه بر هفته‌ای ۲ یا ۳ جلسه تمرین روزهای شنبه صبح هم برای تمرین می‌رفتم. در این دوران آسیب‌های زیادی هم دیدم ولی خدا رو شکر هیچ‌کدام خیلی جدی نبود. یکی از خوبی‌های این سبک مسابقات زیادی است که در سطوح و وزن‌های مختلف برگزار می‌شود. از کمربند سفید گرفته تا کمربندی مشکی از گروه سنی زیر سی سال تا زیر ۴۰ و بالای پنجاه و البته در وزن‌های مختلف. در مسابقات خیلی زیادی شرکت کردم. در اکثر اونها برنده می‌شدم. شاید یکی-دو بار باختم.
+
+از آخرین مسابقاتی که شرکت کردم در کمربند قهوه‌ای بود. که بعد از آن در دسامبر ۲۰۱۰ کمربند مشکی خود را دریافت کردم.
+<iframe width="1903" height="743" src="https://www.youtube.com/embed/8LpU9JUGVu0" title="Seattle Open - Sauleh 1st Match" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="1903" height="743" src="https://www.youtube.com/embed/DM70VTcdZs8" title="Seattle BJJ Open - Sauleh's 2nd Match" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+در این مدت قهرمان‌های زیادی از نقاط مختلف جهان برای برگزاری سمینار به سیاتل می‌آمدند. از جمله فرصت یادگیری از اساتید و قهرمان‌هایی مثل Marcelo Garcia, Marcio Feitosa, Flavio Almeida, Fabiano Scherner را داشتم. عکس‌های زیر مربوط به سمیناری است که قهرمان‌های جهانی در یو اف سی آقای Anderson Silva و آقای Antônio Rodrigo Nogueira در سیاتل برگزار کردند.
+
+<img src="assets/images/bjj_anderson_silva.jpg" /><br>
+<img src="assets/images/bjj_nogeira.jpg" >
+
+در عکس زیر اساتید من Rodrigo و Carlos هستند.
+<img src="assets/images/bjj_blackbelts.jpg" />
+
+تعدادی از هم‌تمرینی‌هایم در عکس زیر هستند.
+<img src="assets/images/bjj_bellevue.jpg" />
