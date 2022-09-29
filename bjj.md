@@ -60,8 +60,15 @@ Royce Gracie
 <img src="assets/images/bjj_anderson_silva.jpg" /><br>
 <img src="assets/images/bjj_nogeira.jpg" >
 
-در عکس زیر اساتید من Rodrigo و Carlos هستند.
+در سال ۲۰۱۸ دان ۲ خود را از اساتیدم آقای Rodrigo و آقای Carlos دریافت کردم.
 <img src="assets/images/bjj_blackbelts.jpg" />
 
 تعدادی از هم‌تمرینی‌هایم در عکس زیر هستند.
 <img src="assets/images/bjj_bellevue.jpg" />
+
+آخرین مسابقه من یک superfight در سال ۲۰۱۸ بود. دو روز قبل از مسابقه استادم گفت حریف این مسابقه مجروح شده و دنبال جایگزین می‌گردند. من که در حال نقل و انتقال به تهران بودم و مرتب تمرین نمی‌کردم انتظار زیادی از خودم نداشتم. قبول کردم و نتیجه ویدیوی زیر شد.
+
+<iframe width="1903" height="800" src="https://www.youtube.com/embed/5a9EqsT763w" title="SaulehGSubX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+بعد از مراجعه به ایران با برادران هنردار در باشگاه شهرک محلاتی آشنا شدم و هر از گاهی با هم تمرین کردیم.
+
