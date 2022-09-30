@@ -2,7 +2,7 @@
 layout: pageAuto
 author_profile: true
 permalink: /bjj/
-title: Brazilian Jiu Jitsu
+title: جوجیستوی برزیلی
 tags: [bjj]
 modified: 9-29-2022
 comments: true
