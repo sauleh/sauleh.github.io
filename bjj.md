@@ -27,28 +27,16 @@ comments: true
 جوجیستو هنر و دانشی است که با انجام دادن کسب می‌شود. با این وجود اساتید و منابعی هستند که اصول این هنر رزمی را به خوبی توضیح می‌دهند. بعضی از منابع مورد علاقه من در زیر آمده‌اند.
 
 <ul>
-<li>
-<a href="https://www.youtube.com/playlist?list=PL2Rmj8Dog7lU_iDoCCyQVYIWNz6U31Wee">Science of Jiu Jitsu</a> by Damian Maia
-</li>
-Any instructional video from <a href="https://www.youtube.com/channel/UCaOR6f52KgukVspCBaQi5Rg/videos">Rickson Gracie</a>
-<li>
-Any instructional video from <a href="https://www.youtube.com/watch?v=BivcEB-1MCY">Ryan Hall</a>
-</li>
-<li>
-Any instructional video from <a href="https://www.youtube.com/watch?v=9RWctJzaSxo">John Danaher</a>
-</li>
-<li>
-The <a href="https://www.youtube.com/c/BjjSuperDeals">BJJ Fanatics</a> YouTube channel by Bernardo Faria.
-</li>
-<li>
-Any instructional from <a href="https://www.youtube.com/c/SilverFoxBJJ">Silver Fox</a>.
-</li>
-<li>
-<a href="https://www.youtube.com/playlist?list=PLPqGwjjNV_5ePWGW0InUhj44Qncbfj2XB">The 32 principles of Jiu Jitsu</a> By Ryron and Rener Gracie. Introduction video available on <a href="https://www.youtube.com/watch?v=lS8LNQyXCqs">BJJ Fanatics</a>.
-</li>
+<li><a href="https://www.youtube.com/playlist?list=PL2Rmj8Dog7lU_iDoCCyQVYIWNz6U31Wee">Science of Jiu Jitsu</a> by Damian Maia </li>
+<li>Any instructional video from <a href="https://www.youtube.com/channel/UCaOR6f52KgukVspCBaQi5Rg/videos">Rickson Gracie</a></li>
+<li>Any instructional video from <a href="https://www.youtube.com/watch?v=BivcEB-1MCY">Ryan Hall</a></li>
+<li>Any instructional video from <a href="https://www.youtube.com/watch?v=9RWctJzaSxo">John Danaher</a></li>
+<li>The <a href="https://www.youtube.com/c/BjjSuperDeals">BJJ Fanatics</a> YouTube channel by Bernardo Faria.</li>
+<li>Any instructional from <a href="https://www.youtube.com/c/SilverFoxBJJ">Silver Fox</a>.</li>
+<li><a href="https://www.youtube.com/playlist?list=PLPqGwjjNV_5ePWGW0InUhj44Qncbfj2XB">The 32 principles of Jiu Jitsu</a> By Ryron and Rener Gracie. Introduction video available on <a href="https://www.youtube.com/watch?v=lS8LNQyXCqs">BJJ Fanatics</a>.</li>
 </ul>
 
-چنانچه علاقمند به دریافت اطلاعات بیشتر در مورد تمرین جوجیستو با من هستید می‌توانید به من <a href="https://t.me/Sauleh">پیام</a> دهید.
+چنانچه علاقمند به دریافت اطلاعات بیشتر در مورد تمرین جوجیستو هستید می‌توانید به من <a href="https://t.me/Sauleh">پیام</a> دهید.
 
 
 عناوین گواهی‌نامه‌های رسمی من در هنرهای رزمی به شرح زیر است.
