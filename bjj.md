@@ -48,6 +48,9 @@ Any instructional from <a href="https://www.youtube.com/c/SilverFoxBJJ">Silver F
 </li>
 </ul>
 
+چنانچه علاقمند به دریافت اطلاعات بیشتر در مورد تمرین جوجیستو با من هستید می‌توانید به من <a href="https://t.me/Sauleh">پیام</a> دهید.
+
+
 عناوین گواهی‌نامه‌های رسمی من در هنرهای رزمی به شرح زیر است.
 
 <ul>
