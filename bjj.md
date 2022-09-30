@@ -10,7 +10,7 @@ comments: true
 
 این صفحه به معرفی هنر رزمی جوجیتسوی برزیلی اختصاص دارد. از سال ۲۰۰۶ تا سال ۲۰۱۸ به مدت ۱۲ سال (بجز وقفه‌های کوتاه) بصورت جدی این هنر رزمی را دنبال کرده‌ام. قبل از آن از سال ۱۹۹۷ تا سال ۲۰۰۵ نیز مشغول هنرهای رزمی مختلف به ویژه جودو و کاراته سبک کیوکوشین بوده‌ام. با توجه به اقبال ویژه‌ای که در سال‌های اخیر به جوجیتسو شده است، مخصوصا در قشر تحصیل‌کرده و به ویژه در میان مهندسین و مخصوصا مهندس‌های کامپیوتر، علاقمند هستم دانش و مهارت خود در این زمینه را با دوستان، همکاران و دانشجویان عزیز به اشتراک بگذارم. 
 
-مارک زاکربرگ بنیان گذار فیس‌بوک و مدیرعامل شرکت meta از آدم‌های معروف اخیر است که خبر تمرین کردنش در این سبک بیرون آمده است (<a href="https://grapplinginsider.com/mark-zuckerberg-trains-brazilian-jiu-jitsu/"> منبع </a>). متفکر، فیلسوف و عصب‌پژوه مشهور <a href="https://en.wikipedia.org/wiki/Sam_Harris">Sam Harris</a> نیز جوجیتسو تمرین می‌کند و چند <a href="https://www.samharris.org/blog/the-pleasures-of-drowning">مقاله</a> در مورد فواید آن نوشته است. لیستی از آدم‌های مشهور که جوجیتسو تمرین می‌کنند در <a href="https://www.letsrollbjj.com/celebrities-that-train-brazilian-jiu-jitsu/">اینجا</a> آمده است.
+مارک زاکربرگ بنیان گذار فیس‌بوک و مدیرعامل شرکت meta از آدم‌های معروف اخیر است که خبر تمرین کردنش در این سبک بیرون آمده است (<a href="https://grapplinginsider.com/mark-zuckerberg-trains-brazilian-jiu-jitsu/"> منبع </a>). متفکر، فیلسوف و عصب‌پژوه مشهور <a href="https://en.wikipedia.org/wiki/Sam_Harris">Sam Harris</a> نیز جوجیتسو تمرین می‌کند و چند <a href="https://www.samharris.org/blog/the-pleasures-of-drowning">مقاله</a> در مورد فواید آن نوشته است. آقای Lex Fridman محقق معروف هوش مصنوعی و دارنده پادکست معروف در این زمینه نیز سالهاست که جوجیتسو کار می‌کند و کمربند مشکی جوجیستو است. لیستی از آدم‌های مشهور که جوجیتسو تمرین می‌کنند در <a href="https://www.letsrollbjj.com/celebrities-that-train-brazilian-jiu-jitsu/">اینجا</a> آمده است. تعداد کارمندانی که جوجیستو تمرین می‌کنند در شرکت‌های بزرگی مثل گوگل و فیس‌بوک به اندازه‌ای زیاد است که کلاس‌های جوجیستو را داخل شرکت برگزار کرده و لباس با برند شرکت تولید کرده‌اند (<a href="https://jitsmagazine.com/facebook-and-google-employees-start-training-bjj-in-company-gis-and-rashguards/">منبع</a>). وقتی در سیاتل تمرین می‌کردم بسیاری از هم‌تمرینی‌های من از مهندس‌ها و مدیران شرکت‌های گوگل، مایکروسافت، اسپیس ایکس و برخی نیز پزشک جراح بودند.
 
 جوجیتسو در مرحله اول دانش و هنر حرکت موثر و کارای بدن انسان برای رسیدن به مقصود است (مثلا بلند شدن از روی زمین یا از توی ماشین). در مرحله دوم حرکت موثر و کارای بدن یک انسان در مقابل بدن انسانی دیگر که مقاومت می‌کند برای رسیدن به هدف (مثلا کنترل کردن، بیهوش‌کردن یا شکستن). بدلیل جایگشت‌های غیر قابل شمارش بدن دو انسان نسبت به هم و نسبت به زمین، هنوز تکنیک‌ها و فنون جدیدی ابداع می‌شوند. به دلیل پیچیدگی این هنر و نقش خلاقیت در آن است که آنرا شطرنج بدنی نامیده‌اند و در میان تحصیل‌کرده‌ها طرفداران زیادی پیدا کرده است.
 
@@ -23,6 +23,30 @@ comments: true
 جنبه دیگری از جوجیستو که برای من بسیار جذاب است شکستن غرور است. هر چقدر هم که کسی قوی باشد بالاخره باید یک روزی تسلیم شود. چون حرکات هم تکنیک‌ها هم سریع و تصادفی نیست، نمی‌تواند ادعا کند که اتفاقی شد. همچنین شما هر کسی باشید، با هر مرتبه اجتماعی که داشته باشید، عرق شما با عرق هم‌تمرینی‌های شما قاطی خواهد شد. از این جهت افراد مغرور یا شکسته و خاکی می‌شوند یا ادامه نمی‌دهند. این بین هنرجویان این سبک معروف و شناخته شده است. 
 
 آخرین نکته اینکه به دلیل ضعف بدنی یکی از بنیان‌گذاران این سبک، تکنیک‌های این سبک (که از جوجیستوی ژاپنی منشعب شده) به گونه‌ای تغییر کرده‌اند که هنرجوی ضعیف با تکنیک بهتر بتواند بر هنر جوی سنگین‌تر و قوی‌تر پیروز شود. این ویژگی نیز از دلایل محبوبیت این سبک شده است.
+
+جوجیستو هنر و دانشی است که با انجام دادن کسب می‌شود. با این وجود اساتید و منابعی هستند که اصول این هنر رزمی را به خوبی توضیح می‌دهند. بعضی از منابع مورد علاقه من در زیر آمده‌اند.
+
+<ul>
+<li>
+<a href="https://www.youtube.com/playlist?list=PL2Rmj8Dog7lU_iDoCCyQVYIWNz6U31Wee">Science of Jiu Jitsu</a> by Damian Maia
+</li>
+Any instructional video from <a href="https://www.youtube.com/channel/UCaOR6f52KgukVspCBaQi5Rg/videos">Rickson Gracie</a>
+<li>
+Any instructional video from <a href="https://www.youtube.com/watch?v=BivcEB-1MCY">Ryan Hall</a>
+</li>
+<li>
+Any instructional video from <a href="https://www.youtube.com/watch?v=9RWctJzaSxo">John Danaher</a>
+</li>
+<li>
+The <a href="https://www.youtube.com/c/BjjSuperDeals">BJJ Fanatics</a> YouTube channel by Bernardo Faria.
+</li>
+<li>
+Any instructional from <a href="https://www.youtube.com/c/SilverFoxBJJ">Silver Fox</a>.
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PLPqGwjjNV_5ePWGW0InUhj44Qncbfj2XB">The 32 principles of Jiu Jitsu</a> By Ryron and Rener Gracie. Introduction video available on <a href="https://www.youtube.com/watch?v=lS8LNQyXCqs">BJJ Fanatics</a>.
+</li>
+</ul>
 
 عناوین گواهی‌نامه‌های رسمی من در هنرهای رزمی به شرح زیر است.
 
