@@ -12,6 +12,8 @@ main:
     url: /publications/
   - title: "Blog"
     url: /blog/
+  - title: "Office Hours"
+    url: /officehours/
   - title: "Tools"
     url: /tools/
   - title: "Calendar"
