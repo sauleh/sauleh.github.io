@@ -37,7 +37,7 @@ Armin Gholampour
 
 ### Current Research Interns
 * Hadi Sheikhi (BS 97)
-* Negar Zeynalabedin (BS 97)
+* [Negar Zeynalabedin](https://github.com/negarzeynalabedin) (BS 97) [LinkedIn](https://www.linkedin.com/in/negarzeynalabedin/)
 * Ghazal ZamaniNejad (BS 97)
 * Shaghayegh Mobasher (BS 97)
 * Yasaman Lotfollahi (BS 97)
